@@ -1,3 +1,6 @@
+## run testCache() to generate 2 random matrices 
+## and see the chaching functions in action
+
 testCache <- function (){
   print("Create 3x3 matrix")
   matrix1 <- matrix(rnorm(9),3,3)
