@@ -1,3 +1,6 @@
+## use testCache() to see the functions in action
+## (testCache.r file)
+
 ## input: an invertible square matrix
 ## function creates a list of functions to:
 ## - set the value and the inverse of the matrix, 
